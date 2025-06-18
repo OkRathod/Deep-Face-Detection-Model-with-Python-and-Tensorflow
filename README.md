@@ -48,6 +48,10 @@ This project implements a deep learning-based face detection model using Python,
             ├── images
             └── labels                      
 ```
+## Outcome
+
+![Model Working ](https://github.com/user-attachments/assets/6fd28e59-e68e-43aa-8467-c453737c7211)
+
 ---
 
 ## ⚙️ Installation
@@ -117,4 +121,3 @@ The notebook includes examples where predicted bounding boxes are drawn over inp
 * Image-level evaluation with bounding box overlay
 
 ---
-
