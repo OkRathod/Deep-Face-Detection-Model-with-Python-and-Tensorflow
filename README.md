@@ -29,8 +29,8 @@ This project implements a deep learning-based face detection model using Python,
 ├── README.md                  # Project overview and usage instructions
 └── data                       # Folder containing images and annotations (not included)
       └── train
-            ├── images
-            └── labels
+            ├── images         # Put the images of the object you are trying to detect as I have used my own face for this one 
+            └── labels         # I have labeled my images using labelImg library and saved in create ML format
       └── test
             ├── images
             └── labels
