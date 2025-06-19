@@ -21,7 +21,11 @@ This project implements a deep learning-based face detection model using Python,
 - Optimized with `Adam` optimizer and `mean squared error` loss
 
 ---
+## 🔀 Flow Diagram
 
+![image](https://github.com/user-attachments/assets/e9d82907-cb65-4845-ab94-44384aefc205)
+
+---
 ## 📂 Project Structure
 ```
 .
@@ -48,7 +52,7 @@ This project implements a deep learning-based face detection model using Python,
             ├── images
             └── labels                      
 ```
-## Outcome
+## 🎯 Outcome
 
 ![Model Working ](https://github.com/user-attachments/assets/6fd28e59-e68e-43aa-8467-c453737c7211)
 
